@@ -8,7 +8,7 @@ Based on [OCP 4.8 IPI Installation](https://docs.openshift.com/container-platfor
 
 1. Create the `kni` user as the doc points to
 2. Create the `install-config.yaml`
-3. Create the `/etc/hosts entries` and the dnsmasq
+3. Create the `/etc/hosts` entries and the dnsmasq (`/etc/dnsmasq.d/abc.dns`)
 4. Run, in this order:
 
    `baremetal.sh` 
