@@ -71,5 +71,5 @@ platform:
         bootMACAddress: F8:
         rootDeviceHints:
          deviceName: "/dev/sda"
-pullSecret:''
+pullSecret: ''
 sshKey: ''
