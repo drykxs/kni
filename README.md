@@ -24,4 +24,4 @@ Based on [OCP 4.8 IPI Installation](https://docs.openshift.com/container-platfor
     
 6. Deploy:
 
-  `./openshift-baremetal-install --dir ~/clusterconfigs --log-level debug create cluster` 
+   `./openshift-baremetal-install --dir ~/clusterconfigs --log-level debug create cluster` 
