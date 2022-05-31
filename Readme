@@ -1,2 +1,4 @@
-This is guide with scripts to facilitate the installation of an OCP KNI virtual machine, based on 
+This is guide with scripts to facilitate the installation of an OCP KNI virtual machine as the and to deploy baremetal masters and workers. 
+
+Based on 
 https://docs.openshift.com/container-platform/4.8/installing/installing_bare_metal_ipi/ipi-install-installation-workflow.html
